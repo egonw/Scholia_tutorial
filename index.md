@@ -1,3 +1,6 @@
+<script type="application/ld+json">
+</script>
+
 # Use Scholia and Wikidata to find scientific literature
 
 According to [WikiData](https://www.wikidata.org/wiki/Wikidata:Scholia), 
