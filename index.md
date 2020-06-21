@@ -1,4 +1,13 @@
 # Use Scholia and Wikidata to find scientific literature
+<script type="application/ld+json">
+  {
+    "@context":"http://schema.org/",
+    "@type":"CreativeWork",
+    "name":"Use Scholia and Wikidata to find scientific literature"
+    "keywords":"Scholia, literature", 
+    "url":"https://laurendupuis.github.io/Scholia_tutorial/"
+  }
+</script>
 
 According to [Wikidata](https://www.wikidata.org/wiki/Wikidata:Scholia), 
 > Scholia is a project to present bibliographic information and scholarly profiles of authors and institutions using Wikidata, the community-curated database supporting Wikipedia and all other Wikimedia projects. Scholia is being developed in the framework of the larger WikiCite initiative, which seeks to index bibliographic metadata in Wikidata about resources that can be used to substantiate claims made on Wikidata, Wikipedia or elsewhere. 
