@@ -3,7 +3,7 @@
   {
     "@context":"http://schema.org/",
     "@type":"CreativeWork",
-    "name":"Use Scholia and Wikidata to find scientific literature"
+    "name":"Use Scholia and Wikidata to find scientific literature",
     "keywords":"Scholia, literature", 
     "url":"https://laurendupuis.github.io/Scholia_tutorial/"
   }
