@@ -23,7 +23,7 @@ Scholia accesses information from [Wikidata](https://www.wikidata.org/wiki/Wikid
 In this tutorial we will take you through the basic steps the help you learn to use Scholia for finding scientific literature. 
 
 ## Check Scholia to see if the publication you're looking for is annotated in Wikidata
-Go to the [Scholia homepage](https://tools.wmflabs.org/scholia/). Here you can use the search bar to look for the title of the publication. When you find the publication, the main page will look like this:
+Go to the [Scholia homepage](https://scholia.toolforge.org/). Here you can use the search bar to look for the title of the publication. When you find the publication, the main page will look like this:
 
 ![Figure 1](Images/Scholia_1.PNG)
 
@@ -61,7 +61,7 @@ Once you have published your annotations for the main subjects, you can go back 
 
 ![Figure 9](Images/Scholia_3.PNG)
 
-Now you can search the main topic of the publication. You can choose to search through scientific literature by its [topic](https://tools.wmflabs.org/scholia/topic/). 
+Now you can search the main topic of the publication. You can choose to search through scientific literature by its [topic](https://scholia.toolforge.org/topic/). 
 
 ![Figure 10](Images/Scholia_4.PNG)
 
@@ -69,6 +69,6 @@ For this example, we will search the term *cardiac muscle contraction*. Under th
 
 ![Figure 11](Images/Scholia_5.PNG)
 
-### For more information about Scholia, you can refer to the [Frequently Asked Questions page](https://tools.wmflabs.org/scholia/faq). For more information about how to use Wikidata, you can refer to the [Wikidata tours page](https://www.wikidata.org/wiki/Wikidata:Tours). 
+### For more information about Scholia, you can refer to the [Frequently Asked Questions page](https://scholia.toolforge.org/faq). For more information about how to use Wikidata, you can refer to the [Wikidata tours page](https://www.wikidata.org/wiki/Wikidata:Tours). 
 
 
