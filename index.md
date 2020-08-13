@@ -71,4 +71,6 @@ For this example, we will search the term *cardiac muscle contraction*. Under th
 
 ### For more information about Scholia, you can refer to the [Frequently Asked Questions page](https://scholia.toolforge.org/faq). For more information about how to use Wikidata, you can refer to the [Wikidata tours page](https://www.wikidata.org/wiki/Wikidata:Tours). 
 
+### Scholia has received funding from the Alfred P. Sloan Foundation under grant number [G-2019-11458](https://sloan.org/grant-detail/8961).
+
 
